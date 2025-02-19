@@ -4,6 +4,11 @@
 		"minecraft:poison",
 		"minecraft:wither",
 		"minecraft:hunger",
-		"minecraft:weakness"
+		"minecraft:weakness",
+		"minecraft:slowness",
+		"minecraft:blindness",
+		"minecraft:darkness",
+		"minecraft:nausea",
+		"minecraft:mining_fatigue"
 	]
 }
