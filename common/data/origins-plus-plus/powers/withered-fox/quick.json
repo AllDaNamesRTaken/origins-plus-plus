@@ -7,6 +7,6 @@
 		"effect":"minecraft:speed",
 		"show_particles":false,
 		"show_icon":false,
-		"amplifier":1
+		"amplifier":2
 	}
 }
